@@ -1,0 +1,1 @@
+# This README provides an overview of the API endpoints and their operations. By following the documented requests and responses, you can effectively use the API to create and retrieve resources. For further details and other available endpoints, refer to the API documentation or consult the API developer. 
